@@ -32,18 +32,12 @@ header div {
     font-size: 20px;
 }
 
-ul {
-    list-style-type: none;
-}
-
-li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
 a {
     color: #ffffff;
     text-decoration: none;
+    display: inline-block;
+    margin-left: 25px;
+    list-style-type: none;
 }
 
 p {
